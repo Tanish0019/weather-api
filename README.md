@@ -1,4 +1,5 @@
-# weather-api
+# weather-cli-app
+
 Get the weather of any location by typing in the address
 
 ## Getting started
